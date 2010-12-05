@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="postTitle">Update</string>
+    <string name="app_name">Data Stream</string>
+    <string name="updateOk">Update</string>
+    <string name="updateCancel">Cancel</string>
+    <string name="attachBtn">Attach Image</string>
+    <string name="cameraClick">Take Photo</string>
+    <string name="cameraPrevClick">Upload</string>
+    <string name="cameraPrevClick2">Back</string>
+    
+    <string name="locAvailable">Location acquired</string>
+    <string name="locUnavailable">Location not available</string>
+</resources>

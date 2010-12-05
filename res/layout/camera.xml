@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  >
+  
+<FrameLayout 
+	android:id="@+id/FramePreview" 
+	android:layout_width="fill_parent" 
+	android:layout_height="wrap_content"
+	android:layout_weight="1">
+</FrameLayout>
+		
+<Button 
+	android:text="@string/cameraClick" 
+	android:id="@+id/takePhoto" 
+	android:layout_width="125px" 
+	android:layout_height="wrap_content" 
+	android:layout_alignParentLeft="true"
+	android:layout_alignParentBottom="true"
+	android:onClick="onTake" />
+	
+<Button 
+	android:text="@string/cameraPrevClick2" 
+	android:id="@+id/backBtn" 
+	android:layout_width="125px" 
+	android:layout_height="wrap_content"
+	android:layout_alignParentRight="true"
+	android:layout_alignParentBottom="true"
+	android:onClick="onBack" />
+	
+</RelativeLayout>
