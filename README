@@ -1,6 +1,3 @@
 # An android client for Disaster Streaming
 
-This is a client build in [RHoK][rh] 2 Jakarta for [Disaster Streaming][ds] problem set.
-
-[rh]: http://www.rhok.org
-[ds]: http://wiki.rhok.org/Disaster_Streaming
+This is a client build in RHoK (www.rhok.org) 2 Jakarta for Disaster Streaming (wiki.rhok.org/Disaster_Streaming) problem set.
